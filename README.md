@@ -1,5 +1,12 @@
 ### Hi there 👋
+<div align="center" ><img src="https://github-readme-stats.vercel.app/api?username=jbustio&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"></span>
 
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jbustio's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jbustio&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</div>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jbustio.jbustio)
 <!--
 **jbustio/jbustio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
